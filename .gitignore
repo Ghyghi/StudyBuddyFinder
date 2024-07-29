@@ -11,10 +11,10 @@ logs/
 Thumbs.db
 
 # IDE/editor settings
-.vscode/
 .idea/
 
 # Environment variables
+temp_auto_push.bat
 env/
 .env
 
@@ -32,3 +32,5 @@ build/
 # Misc
 *.tmp
 *.bak
+.gitignore
+branch_structure.json
